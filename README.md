@@ -1,2 +1,1 @@
-# Olá, recrutador(a)! 
-Preparei um compilado dos meus principais projetos para que possa avaliar melhor o meu perfil. ;)
+ apresentação simples usando HTML, JavaScript e CSS! 
